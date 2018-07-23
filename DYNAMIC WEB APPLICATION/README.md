@@ -13,7 +13,7 @@
       </li>
       <li>
          Team of 3 members:
-         <ol>
+         <ul>
            <li>
               Abdul Sattar Mapara
            </li>
@@ -23,18 +23,18 @@
            <li>
              A.T.Reddy
            </li>
-        </ol>
+        </ul>
       </li>
       <li>
           Guided By-
-        <ol>
+        <ul>
            <li>
               Bharat Kapse Sir
            </li>
           <li>
               Rohit Sharma Sir
           </li>
-        </ol>
+        </ul>
       </li>
     </ul>
   </li>
