@@ -3,10 +3,13 @@
     Web Application to host timed MCQ-based contests.
     <ul>
        <li>
-         Shows upcoming and live contests, removes completed ones.
+         Supports registration for upcoming and live contests that involves MCQs.
       </li>
       <li>
-        Displays dynamic leaderboard that supports filter by name/country.
+         JDoodle online compiler used for users to execute a given piece of code before attempting MCQ based on the code in a programming-based contest.
+      </li>
+      <li>
+        Displays dynamic leaderboard that supports filter by username(email for simplicity but can be modified)/country.
       </li>
       <li>
          Tools/Technologies-Java Servlets,Java Server Pages,JDBC,MySQL,HTML,CSS,Bootstrap(Framework),JavaScript
