@@ -6,7 +6,7 @@
          Supports registration for upcoming and live contests that involves MCQs.
       </li>
       <li>
-         JDoodle online compiler used for users to execute a given piece of code before attempting MCQ based on the code in a programming-based contest.
+        Facility to provide embeded code (tested from JDoodle online compiler) so that users can execute a code with custom inputs to answer questions based on it.
       </li>
       <li>
         Displays dynamic leaderboard that supports filter by username(email for simplicity but can be modified)/country.
